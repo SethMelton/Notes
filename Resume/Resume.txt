@@ -1,0 +1,85 @@
+SETH MELTON
+Senior Field Service
+
+smelton@gmail.com
+248-613-3228
+https://www.linkedin.com/in/seth-melton-279066115/
+Waterford
+
+Experience
+======
+Senior Field Service
+ZF-TRW Inc
+2005 - Ongoing
+Farmington Hills, MI
+ - Provide both deskside and phone end-user support for 1500 employees. This includes laptop, desktop, and lab environments
+ - Troubleshooting and administration of software distribution, installation issues, licensing, and office automation
+ - Diagnosis and repair of Dell and Lenovo desktops and laptops. Including ordering of parts and installation
+ - I have trained new employees, remote help-desk, and end-users on new processes and procedural rollouts.
+ - Administer and maintain knowledge base documentation
+ - I was tasked with creating PowerShell scripts to be used by team for various needs.
+ - Remote support and training via travel and telecommute
+ - Created the inventory management system for North American locations
+ - Acted as backup for Team Leader when needed.
+
+Senior Support
+Handleman Co
+2003 - 2005
+Troy, MI
+ - Technical support via phone for Windows, PDAs, barcode scanners, and proprietary software
+ - Staging and repair of laptops, PDAs, and barcode scanners for field employees
+ - Traveled for district events to provide on-site system upgrades and support
+ - Worked with client to create new support procedures and knowledge base articles which were used by all support personnel
+
+Senior Resource Support Agent
+Chrysler
+01/2000 - 01/2003
+Southfield, MI
+ - Provided second level technical support to first level technicians as well as escalation management
+ - Supported hundreds of Chrysler dealerships nationwide running SCO Unix servers with X-25 satellite communications, modems, local and wireless networks, Chrysler proprietary dealership software and hardware solutions. Custom service hardware as well as IBM servers
+ - Acted as second level support to IBM field technicians in the US and Canada
+ - Created and trained new support processes and procedures. This included process flowcharts, knowledge base articles, and classroom training
+ - Interfaced with client on changes and roll-outs of new projects during weekly meetings with Chrysler IS management in Auburn Hills tech center
+
+
+Education
+======
+Graduated
+Lakeland High School
+01/1995 - 01/1995
+White Lake, MI
+ - Oakland Technical Center SW 1995: Completed a two year electronics program
+
+
+Summary
+======
+Senior technician with over 20 years of experience in software and hardware support for both small business and corporate environments.In-depth knowledge of major operating systems.The ability to learn and adhere to corporate guidelines and work within a structured support environment.Skilled in technical documentation and training.Proficient with ticket tracking systems and escalation procedures.Highly effective team and self-management skills.Excellent communication skills.Exceptional end-user support, resulting in consistent positive customer feedback.Ability to multitask and complete projects within deadlines.Strong desire to take on new and challenging tasks.
+
+
+Skills
+======
+ - Linux
+ - Mac OS
+ - Microsoft Office / 365
+ - Red Hat
+ - Suse
+ - Unix
+ - Windows
+ - PowerShell
+
+
+Languages
+======
+English
+
+
+Passions
+======
+My Family
+
+Linux
+
+Open-Source Software
+
+Music
+
