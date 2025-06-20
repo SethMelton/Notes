@@ -1,6 +1,6 @@
 ---
 created: 2025-06-13T11:45:42-04:00
-modified: 2025-06-18T22:43:00-04:00
+modified: 2025-06-20T17:12:37-04:00
 type: Checklist
 ---
 
@@ -12,4 +12,5 @@ type: Checklist
 - [ ] Ship last three Lenovos 
 - [ ] Get system ready for VictorS before end of month
 - [ ] 6/20 disable RECA leaver
-- [ ] Reimage old HP systems cleared 
+- [ ] Reimage old HP systems cleared
+- [ ] Talk to Willy about rights to disable accounts on na.ads.ISR.com
